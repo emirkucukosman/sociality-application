@@ -1,0 +1,1 @@
+export { AccountImage } from './AccountImage';
